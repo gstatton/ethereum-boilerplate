@@ -36,7 +36,7 @@ export default function QuickStart({ isServerInfo }) {
         style={styles.card}
         title={
           <>
-            📝 <Text strong>To-Do List</Text>
+            📝 <Text strong>To-Do-List-with-Update</Text>
           </>
         }
       >
@@ -49,7 +49,7 @@ export default function QuickStart({ isServerInfo }) {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                ethereum-boilerplate
+                ethereum-boilerplate-updated
               </a>{" "}
             </Text>
           </Timeline.Item>
